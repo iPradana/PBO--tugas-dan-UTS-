@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=gbr\ pn
+comment1.target=Play(java.lang.String,\ int)
+comment2.params=
+comment2.target=Play()
+comment3.params=x
+comment3.target=Play(java.lang.String)
+comment4.params=
+comment4.target=void\ cek()
+comment5.params=
+comment5.target=void\ set()
+comment6.params=
+comment6.target=void\ setGbr()
+comment7.params=
+comment7.target=void\ remove()
+comment8.params=
+comment8.target=void\ letsGO()
+numComments=9
