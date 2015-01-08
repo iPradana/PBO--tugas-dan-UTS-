@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=is\ ii
+comment1.target=void\ setPrint(java.lang.String,\ int)
+comment2.params=x
+comment2.target=void\ setColor(java.awt.Color)
+comment3.params=i
+comment3.target=void\ font(int)
+comment4.params=
+comment4.target=void\ getA()
+comment5.params=
+comment5.target=void\ simpan()
+comment6.params=
+comment6.target=int\ getTtl()
+numComments=7

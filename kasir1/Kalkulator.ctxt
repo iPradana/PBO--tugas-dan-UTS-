@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=img
+comment1.target=void\ setImg(java.lang.String)
+comment2.params=x
+comment2.target=void\ setX(int)
+comment3.params=
+comment3.target=void\ klik()
+numComments=4
